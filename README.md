@@ -1,4 +1,4 @@
-# EECS 448 Project 3 ![Adventurer](/Documentation/images/adventurer.png)
+# EECS 448 Project 4 ![Adventurer](/Documentation/images/adventurer.png)
 Authors: Suhaib Ansari, Jianpeng Li, Ellen Vandewater, Brian Cheung, & Valerie Hernandez
  
 ## Project Overview ![Adventurer2](/Documentation/images/adventurer2.png)
